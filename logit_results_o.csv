@@ -1,0 +1,3 @@
+period,alerts_before,productive_alerts,alerts_after,productive_kept,recall_pct,alert_reduction_pct,conversion_before_pct,conversion_after_pct,roc_auc,pr_auc
+train (Jan-Jul),199,67,126,64,95.5,36.7,33.7,50.8,0.957,0.964
+"test (Aug-Oct, out of time)",82,28,59,27,96.4,28.0,34.1,45.8,0.972,0.978

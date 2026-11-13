@@ -1,0 +1,7 @@
+feature,coefficient_std,odds_ratio_per_1sd
+prior_large_cash_90d,2.493,12.1
+log_amount,2.066,7.89
+is_business,0.67,1.95
+tenure_years,0.33,1.39
+cash_share_90d,-0.108,0.9
+cash_to_income,-0.322,0.72

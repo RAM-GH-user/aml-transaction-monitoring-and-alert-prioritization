@@ -1,0 +1,3 @@
+table,rows,duplicate_ids,null_cells,orphan_txns_no_customer,non_positive_amounts
+customers,948,0,0,,
+transactions,265165,0,0,0.0,0.0

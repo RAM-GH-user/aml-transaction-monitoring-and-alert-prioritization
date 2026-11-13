@@ -1,0 +1,949 @@
+customer_id,customer_type,occupation,declared_monthly_income,country,onboard_date
+C00001,Individual,Driver,8266.54,US,2018-12-09
+C00002,Business,Grocery Store,153097.66,US,2019-05-30
+C00003,Individual,Accountant,6417.69,US,2019-07-08
+C00004,Individual,Retired,8434.44,US,2018-05-20
+C00005,Individual,Retail Associate,7257.62,US,2020-12-14
+C00006,Individual,Retail Associate,13091.33,US,2019-09-03
+C00007,Individual,Retail Associate,4787.73,US,2021-03-04
+C00008,Individual,Retired,9038.13,US,2022-11-09
+C00009,Individual,Retail Associate,13636.81,US,2024-10-24
+C00010,Individual,Engineer,9377.99,US,2020-03-05
+C00011,Individual,Engineer,11676.85,US,2018-02-18
+C00012,Individual,Retired,6664.15,US,2022-01-31
+C00013,Individual,Accountant,7714.31,US,2018-01-28
+C00014,Individual,Retail Associate,14104.35,US,2018-10-24
+C00015,Business,Auto Repair,106098.39,US,2021-09-26
+C00016,Individual,Accountant,9064.08,US,2022-10-04
+C00017,Individual,Driver,7166.5,US,2023-09-04
+C00018,Individual,Student,14407.48,US,2018-06-19
+C00019,Individual,Driver,4251.22,US,2020-05-01
+C00020,Business,Restaurant,94008.92,US,2025-07-11
+C00021,Business,Auto Repair,42278.28,US,2018-03-22
+C00022,Business,Auto Repair,23873.52,US,2019-09-12
+C00023,Business,Auto Repair,188895.19,US,2018-11-23
+C00024,Individual,Engineer,12073.82,US,2018-11-05
+C00025,Individual,Nurse,13767.95,US,2023-11-20
+C00026,Individual,Engineer,5643.44,US,2025-03-07
+C00027,Individual,Accountant,5316.86,US,2023-04-25
+C00028,Individual,Retail Associate,4053.96,US,2020-06-07
+C00029,Individual,Retail Associate,10703.32,US,2023-01-22
+C00030,Individual,Teacher,3795.84,US,2025-09-18
+C00031,Individual,Teacher,12620.14,US,2019-02-07
+C00032,Individual,Student,12439.65,US,2024-10-26
+C00033,Business,Auto Repair,198158.78,US,2023-10-11
+C00034,Individual,Teacher,14297.14,US,2023-08-02
+C00035,Individual,Retail Associate,9172.23,US,2017-10-27
+C00036,Individual,Student,6929.65,US,2025-02-14
+C00037,Individual,Driver,4460.43,US,2021-08-30
+C00038,Individual,Teacher,9646.25,US,2023-06-15
+C00039,Business,Grocery Store,143835.85,US,2023-03-10
+C00040,Business,Restaurant,99895.58,US,2021-12-11
+C00041,Individual,Nurse,12058.55,US,2024-02-18
+C00042,Individual,Engineer,12574.95,US,2018-01-17
+C00043,Business,Import/Export,126905.79,US,2018-04-15
+C00044,Individual,Accountant,13352.04,US,2021-12-29
+C00045,Individual,Student,13148.27,US,2022-12-13
+C00046,Individual,Engineer,13696.49,US,2024-02-11
+C00047,Individual,Teacher,10995.18,US,2019-02-18
+C00048,Individual,Teacher,13029.02,US,2022-10-23
+C00049,Individual,Teacher,12607.55,US,2023-08-03
+C00050,Individual,Student,5640.83,US,2019-06-01
+C00051,Individual,Engineer,6630.94,US,2024-09-16
+C00052,Individual,Student,6546.27,US,2019-11-15
+C00053,Business,Auto Repair,85870.94,US,2023-08-20
+C00054,Individual,Nurse,8090.35,US,2024-02-13
+C00055,Individual,Accountant,9510.95,US,2023-09-17
+C00056,Individual,Student,7929.28,US,2025-08-12
+C00057,Individual,Student,13748.56,US,2025-09-26
+C00058,Individual,Retired,12496.37,US,2023-07-28
+C00059,Business,Auto Repair,21088.56,US,2024-09-23
+C00060,Individual,Accountant,14187.67,US,2024-05-26
+C00061,Individual,Retired,13561.27,US,2017-12-12
+C00062,Individual,Teacher,4102.95,US,2022-02-27
+C00063,Individual,Student,6354.43,US,2021-06-11
+C00064,Business,Grocery Store,172241.8,US,2025-11-03
+C00065,Individual,Driver,9879.42,US,2023-02-23
+C00066,Individual,Student,3891.3,US,2021-09-09
+C00067,Individual,Teacher,8705.57,US,2017-12-20
+C00068,Individual,Student,14328.13,US,2024-01-20
+C00069,Individual,Engineer,14469.76,US,2021-08-10
+C00070,Individual,Engineer,12440.7,US,2017-11-07
+C00071,Individual,Engineer,8125.25,US,2018-07-19
+C00072,Individual,Retail Associate,9136.62,US,2023-02-13
+C00073,Individual,Student,8471.62,US,2018-06-05
+C00074,Individual,Engineer,14557.37,US,2017-11-20
+C00075,Individual,Retail Associate,7610.46,US,2025-08-15
+C00076,Individual,Nurse,14479.09,US,2025-06-12
+C00077,Business,Restaurant,58355.45,US,2022-04-30
+C00078,Individual,Teacher,6894.8,US,2024-10-14
+C00079,Individual,Retired,4465.38,US,2022-12-05
+C00080,Individual,Teacher,8052.53,US,2020-06-20
+C00081,Business,Restaurant,58048.83,US,2023-04-14
+C00082,Business,Grocery Store,114652.27,US,2023-03-05
+C00083,Individual,Nurse,10377.53,US,2025-06-24
+C00084,Individual,Driver,7382.47,US,2020-09-30
+C00085,Individual,Driver,6179.47,US,2022-11-14
+C00086,Business,Consulting,119166.91,US,2024-05-01
+C00087,Individual,Engineer,3166.74,US,2022-11-22
+C00088,Individual,Retail Associate,12911.08,US,2023-11-18
+C00089,Individual,Teacher,10423.24,US,2020-03-09
+C00090,Individual,Retired,12554.77,US,2018-06-04
+C00091,Individual,Retired,13780.85,US,2022-11-20
+C00092,Individual,Retired,10823.43,US,2020-12-01
+C00093,Business,Grocery Store,60934.45,US,2019-02-26
+C00094,Individual,Retired,14993.1,US,2024-04-16
+C00095,Business,Import/Export,167066.47,US,2022-05-18
+C00096,Individual,Teacher,14730.34,US,2024-03-09
+C00097,Individual,Nurse,8510.36,US,2025-05-14
+C00098,Individual,Retail Associate,5202.54,US,2019-01-25
+C00099,Individual,Student,3582.74,US,2020-02-16
+C00100,Business,Restaurant,23623.4,US,2023-01-22
+C00101,Individual,Driver,12155.67,US,2020-03-01
+C00102,Individual,Student,5225.8,US,2018-05-12
+C00103,Individual,Retail Associate,14325.79,US,2019-09-22
+C00104,Individual,Teacher,13072.25,US,2025-08-01
+C00105,Individual,Retail Associate,13637.14,US,2025-01-01
+C00106,Individual,Engineer,13400.71,US,2020-08-09
+C00107,Individual,Nurse,7271.01,US,2022-12-13
+C00108,Individual,Nurse,11150.71,US,2023-03-21
+C00109,Individual,Engineer,14906.35,US,2017-12-03
+C00110,Individual,Teacher,13955.79,US,2025-09-17
+C00111,Business,Restaurant,102414.16,US,2020-11-21
+C00112,Individual,Retail Associate,8279.49,US,2019-11-06
+C00113,Business,Import/Export,101601.17,US,2020-03-23
+C00114,Individual,Teacher,11733.52,US,2020-05-04
+C00115,Individual,Teacher,6042.75,US,2019-06-26
+C00116,Individual,Student,13507.76,US,2018-03-20
+C00117,Business,Auto Repair,171770.09,US,2024-03-17
+C00118,Individual,Driver,11579.14,US,2022-04-05
+C00119,Individual,Retail Associate,4043.88,US,2019-02-26
+C00120,Individual,Driver,11406.78,US,2023-09-20
+C00121,Individual,Retail Associate,13091.88,US,2022-03-28
+C00122,Individual,Nurse,14661.81,US,2019-08-27
+C00123,Individual,Student,8836.09,US,2025-08-13
+C00124,Individual,Teacher,7659.83,US,2020-10-17
+C00125,Individual,Driver,14444.56,US,2021-03-13
+C00126,Individual,Driver,6513.09,US,2023-11-12
+C00127,Business,Grocery Store,67156.43,US,2024-06-03
+C00128,Individual,Engineer,10502.92,US,2020-08-19
+C00129,Individual,Nurse,3248.71,US,2023-08-18
+C00130,Individual,Nurse,6996.53,US,2022-04-02
+C00131,Individual,Engineer,4973.8,US,2023-12-02
+C00132,Individual,Retail Associate,5674.67,US,2025-04-30
+C00133,Individual,Retail Associate,11160.45,US,2024-11-24
+C00134,Individual,Retired,7709.31,US,2024-05-07
+C00135,Individual,Engineer,6441.01,US,2025-11-17
+C00136,Individual,Retired,4675.47,US,2025-11-26
+C00137,Individual,Retired,3992.5,US,2018-03-09
+C00138,Individual,Retired,6966.24,US,2025-06-15
+C00139,Business,Consulting,63763.2,US,2021-03-23
+C00140,Business,Grocery Store,65817.8,US,2024-08-27
+C00141,Individual,Student,13995.94,US,2023-01-22
+C00142,Business,Auto Repair,33800.92,US,2021-09-28
+C00143,Individual,Retail Associate,6154.44,US,2021-06-20
+C00144,Individual,Student,9606.15,US,2024-04-25
+C00145,Business,Consulting,104568.37,US,2018-04-29
+C00146,Individual,Accountant,14656.0,US,2025-07-30
+C00147,Business,Consulting,58082.53,US,2021-10-08
+C00148,Individual,Student,4347.74,US,2021-11-22
+C00149,Individual,Driver,6359.81,US,2019-06-24
+C00150,Individual,Engineer,9237.27,US,2023-05-16
+C00151,Business,Import/Export,70278.16,US,2020-10-24
+C00152,Individual,Teacher,9541.11,US,2018-10-16
+C00153,Individual,Driver,14167.45,US,2022-12-26
+C00154,Individual,Student,5443.65,US,2025-08-07
+C00155,Business,Grocery Store,38633.16,US,2020-06-02
+C00156,Individual,Accountant,12545.76,US,2019-08-21
+C00157,Business,Auto Repair,189222.44,US,2024-12-08
+C00158,Individual,Accountant,7638.01,US,2019-11-14
+C00159,Individual,Nurse,9185.15,US,2025-09-27
+C00160,Business,Consulting,48804.73,US,2022-02-18
+C00161,Business,Grocery Store,140671.89,US,2023-12-19
+C00162,Business,Consulting,158016.61,US,2021-02-07
+C00163,Individual,Student,10112.47,US,2024-11-24
+C00164,Individual,Driver,4543.96,US,2021-11-02
+C00165,Business,Grocery Store,50400.28,US,2020-08-08
+C00166,Individual,Driver,12433.46,US,2019-06-23
+C00167,Individual,Engineer,6727.56,US,2024-08-18
+C00168,Business,Auto Repair,53604.78,US,2025-01-20
+C00169,Individual,Nurse,3814.19,US,2025-05-12
+C00170,Individual,Accountant,3154.93,US,2018-11-23
+C00171,Business,Auto Repair,96391.65,US,2025-11-15
+C00172,Business,Restaurant,101372.93,US,2023-06-18
+C00173,Individual,Teacher,12428.02,US,2025-07-07
+C00174,Individual,Student,11054.82,US,2025-08-15
+C00175,Individual,Engineer,8629.9,US,2024-03-17
+C00176,Individual,Nurse,11606.86,US,2022-03-30
+C00177,Business,Consulting,45199.72,US,2018-03-24
+C00178,Individual,Retired,8434.99,US,2020-02-22
+C00179,Business,Restaurant,68511.81,US,2021-05-06
+C00180,Individual,Driver,11090.62,US,2021-05-28
+C00181,Individual,Nurse,13736.21,US,2024-12-28
+C00182,Individual,Retail Associate,3806.88,US,2021-02-03
+C00183,Individual,Nurse,10588.31,US,2025-07-26
+C00184,Business,Consulting,115048.76,US,2025-07-17
+C00185,Individual,Nurse,5149.01,US,2020-03-08
+C00186,Business,Consulting,172642.11,US,2023-05-29
+C00187,Individual,Nurse,13212.97,US,2024-05-30
+C00188,Individual,Driver,13624.12,US,2018-10-29
+C00189,Business,Import/Export,184154.41,US,2025-06-25
+C00190,Individual,Driver,14255.32,US,2023-07-14
+C00191,Individual,Teacher,7045.29,US,2024-06-24
+C00192,Individual,Engineer,13306.2,US,2024-04-28
+C00193,Individual,Nurse,8890.32,US,2025-04-10
+C00194,Individual,Accountant,6828.21,US,2019-07-29
+C00195,Business,Restaurant,188340.56,US,2024-04-10
+C00196,Individual,Engineer,10628.98,US,2022-04-27
+C00197,Individual,Teacher,7636.99,US,2019-09-25
+C00198,Individual,Engineer,8173.38,US,2017-12-17
+C00199,Individual,Engineer,12230.58,US,2022-05-20
+C00200,Individual,Engineer,7969.8,US,2024-03-21
+C00201,Individual,Retired,3727.6,US,2025-08-28
+C00202,Individual,Accountant,3026.69,US,2022-08-31
+C00203,Individual,Teacher,8455.75,US,2023-04-09
+C00204,Individual,Retail Associate,11518.06,US,2019-11-07
+C00205,Individual,Nurse,10350.95,US,2019-11-04
+C00206,Individual,Student,12624.62,US,2020-05-24
+C00207,Individual,Nurse,3643.32,US,2023-11-17
+C00208,Individual,Engineer,9711.01,US,2024-06-17
+C00209,Business,Grocery Store,131676.2,US,2020-10-21
+C00210,Business,Consulting,164153.93,US,2022-01-24
+C00211,Business,Import/Export,40221.11,US,2025-10-27
+C00212,Individual,Teacher,6353.07,US,2019-08-24
+C00213,Individual,Student,10879.96,US,2019-02-22
+C00214,Individual,Teacher,5531.56,US,2020-12-26
+C00215,Individual,Engineer,14058.39,US,2019-06-01
+C00216,Individual,Student,6448.36,US,2022-06-16
+C00217,Individual,Retail Associate,5963.07,US,2024-12-12
+C00218,Individual,Student,13087.0,US,2023-07-04
+C00219,Individual,Student,11458.89,US,2024-05-20
+C00220,Individual,Driver,13366.46,US,2022-11-07
+C00221,Individual,Retail Associate,9758.18,US,2021-06-10
+C00222,Individual,Retired,9609.5,US,2021-03-26
+C00223,Individual,Teacher,5264.59,US,2018-01-05
+C00224,Individual,Accountant,8414.33,US,2024-08-01
+C00225,Individual,Accountant,12885.43,US,2019-08-09
+C00226,Business,Auto Repair,67717.26,US,2024-08-07
+C00227,Individual,Retail Associate,8849.61,US,2023-02-06
+C00228,Business,Import/Export,136871.97,US,2022-12-14
+C00229,Individual,Retired,4515.39,US,2021-06-12
+C00230,Individual,Student,5046.16,US,2025-09-05
+C00231,Individual,Nurse,6731.94,US,2024-04-26
+C00232,Business,Consulting,168207.26,US,2018-03-30
+C00233,Individual,Nurse,9550.24,US,2022-01-27
+C00234,Individual,Retired,8986.85,US,2024-09-20
+C00235,Business,Import/Export,123727.5,US,2017-11-04
+C00236,Individual,Student,14693.8,US,2023-12-26
+C00237,Individual,Engineer,3226.37,US,2018-05-07
+C00238,Individual,Student,6037.01,US,2024-03-26
+C00239,Individual,Retired,7948.27,US,2025-04-10
+C00240,Individual,Engineer,5211.3,US,2019-11-15
+C00241,Individual,Nurse,3022.74,US,2022-07-06
+C00242,Individual,Retired,7771.91,US,2020-03-04
+C00243,Individual,Teacher,7708.41,US,2017-11-10
+C00244,Individual,Engineer,12607.69,US,2024-09-04
+C00245,Business,Restaurant,146919.95,US,2023-05-31
+C00246,Business,Restaurant,57468.73,US,2023-08-15
+C00247,Individual,Retired,14285.31,US,2018-05-09
+C00248,Business,Import/Export,188951.06,US,2023-04-16
+C00249,Individual,Nurse,10658.95,US,2019-09-24
+C00250,Individual,Driver,7973.66,US,2022-04-18
+C00251,Individual,Engineer,5828.53,US,2024-09-12
+C00252,Individual,Student,9965.32,US,2024-04-30
+C00253,Individual,Retired,11683.09,US,2019-09-06
+C00254,Individual,Retail Associate,10371.92,US,2020-09-19
+C00255,Individual,Engineer,8577.9,US,2017-12-08
+C00256,Individual,Nurse,8946.84,US,2019-03-23
+C00257,Individual,Teacher,12383.69,US,2021-05-02
+C00258,Individual,Engineer,4735.34,US,2022-03-01
+C00259,Individual,Accountant,8530.99,US,2019-01-14
+C00260,Individual,Student,4880.6,US,2020-09-22
+C00261,Individual,Accountant,7008.49,US,2024-11-09
+C00262,Individual,Teacher,7594.99,US,2021-12-12
+C00263,Individual,Accountant,12044.14,US,2020-07-21
+C00264,Individual,Student,8045.04,US,2025-08-14
+C00265,Individual,Nurse,11440.17,US,2025-03-29
+C00266,Business,Consulting,30261.55,US,2020-09-15
+C00267,Individual,Engineer,14888.85,US,2020-02-16
+C00268,Business,Auto Repair,74605.74,US,2023-10-22
+C00269,Individual,Retired,9176.55,US,2021-11-10
+C00270,Individual,Retail Associate,9809.83,US,2021-12-25
+C00271,Individual,Student,6489.85,US,2022-08-17
+C00272,Individual,Teacher,7205.6,US,2022-12-09
+C00273,Individual,Retired,8273.88,US,2021-08-12
+C00274,Individual,Student,5039.37,US,2020-06-26
+C00275,Business,Grocery Store,49170.59,US,2017-12-27
+C00276,Individual,Student,3560.15,US,2020-11-17
+C00277,Individual,Student,4698.05,US,2018-05-14
+C00278,Individual,Retired,5169.1,US,2017-12-29
+C00279,Individual,Driver,5240.52,US,2018-12-20
+C00280,Business,Auto Repair,28282.33,US,2024-10-20
+C00281,Individual,Retail Associate,4840.73,US,2019-07-12
+C00282,Business,Auto Repair,92316.7,US,2024-01-28
+C00283,Individual,Teacher,6762.24,US,2022-08-24
+C00284,Individual,Accountant,7738.23,US,2019-08-06
+C00285,Individual,Teacher,7941.08,US,2021-12-07
+C00286,Business,Grocery Store,113037.72,US,2025-01-11
+C00287,Individual,Student,7623.24,US,2023-06-27
+C00288,Individual,Nurse,5732.03,US,2022-06-06
+C00289,Individual,Retail Associate,3279.57,US,2019-08-29
+C00290,Business,Restaurant,148694.79,US,2024-11-05
+C00291,Individual,Retail Associate,9857.12,US,2019-04-04
+C00292,Individual,Student,12594.39,US,2021-03-11
+C00293,Business,Consulting,177995.97,US,2022-02-22
+C00294,Individual,Student,12651.04,US,2023-09-24
+C00295,Individual,Driver,9289.01,US,2019-02-04
+C00296,Individual,Engineer,10269.86,US,2022-09-19
+C00297,Individual,Retail Associate,4800.37,US,2021-10-08
+C00298,Individual,Driver,7127.9,US,2018-10-14
+C00299,Individual,Accountant,10211.87,US,2020-05-11
+C00300,Individual,Accountant,12080.24,US,2023-04-29
+C00301,Individual,Engineer,9390.12,US,2024-01-06
+C00302,Individual,Teacher,10409.82,US,2019-02-01
+C00303,Individual,Accountant,3255.47,US,2021-05-09
+C00304,Individual,Accountant,7290.47,US,2024-05-30
+C00305,Individual,Teacher,5502.6,US,2021-04-03
+C00306,Individual,Retired,5815.69,US,2018-08-02
+C00307,Individual,Accountant,3819.29,US,2023-12-22
+C00308,Individual,Engineer,5871.54,US,2021-09-19
+C00309,Individual,Engineer,3881.44,US,2025-01-14
+C00310,Individual,Accountant,4534.43,US,2021-12-07
+C00311,Individual,Student,11310.93,US,2025-03-11
+C00312,Individual,Retail Associate,7763.67,US,2019-04-29
+C00313,Individual,Driver,14891.01,US,2021-11-05
+C00314,Business,Import/Export,89005.7,US,2018-07-27
+C00315,Business,Grocery Store,88973.61,US,2021-04-14
+C00316,Individual,Accountant,11032.06,US,2022-06-25
+C00317,Individual,Nurse,14528.22,US,2024-02-18
+C00318,Individual,Student,9622.44,US,2018-09-26
+C00319,Individual,Retail Associate,7721.72,US,2020-08-30
+C00320,Individual,Driver,11702.32,US,2021-09-13
+C00321,Individual,Retail Associate,6786.77,US,2021-11-18
+C00322,Individual,Retail Associate,7814.17,US,2018-09-05
+C00323,Business,Grocery Store,142415.86,US,2018-05-12
+C00324,Individual,Engineer,13592.18,US,2018-08-24
+C00325,Individual,Accountant,13614.65,US,2018-08-22
+C00326,Individual,Student,11497.69,US,2025-03-05
+C00327,Individual,Nurse,9258.25,US,2025-11-29
+C00328,Business,Auto Repair,77222.88,US,2021-07-30
+C00329,Business,Consulting,64036.44,US,2024-11-25
+C00330,Business,Restaurant,132302.62,US,2024-11-13
+C00331,Individual,Engineer,5497.29,US,2019-07-01
+C00332,Individual,Student,6262.29,US,2024-10-13
+C00333,Individual,Driver,14254.99,US,2019-01-27
+C00334,Individual,Driver,10764.72,US,2023-11-09
+C00335,Individual,Accountant,6926.59,US,2025-04-10
+C00336,Individual,Accountant,4053.88,US,2021-11-27
+C00337,Individual,Nurse,3972.23,US,2019-12-01
+C00338,Individual,Accountant,11368.76,US,2024-07-04
+C00339,Individual,Retail Associate,10985.2,US,2019-08-20
+C00340,Individual,Teacher,5945.22,US,2021-05-18
+C00341,Individual,Engineer,11257.56,US,2018-08-22
+C00342,Individual,Accountant,9810.93,US,2021-10-10
+C00343,Individual,Retail Associate,11930.29,US,2023-04-03
+C00344,Individual,Accountant,8829.02,US,2023-03-10
+C00345,Individual,Retail Associate,11267.66,US,2020-09-25
+C00346,Individual,Teacher,5741.04,US,2020-10-09
+C00347,Individual,Accountant,14993.23,US,2021-04-03
+C00348,Individual,Nurse,14999.81,US,2023-06-16
+C00349,Individual,Retail Associate,5155.68,US,2017-10-19
+C00350,Individual,Nurse,8677.11,US,2021-08-01
+C00351,Individual,Driver,11397.49,US,2025-09-22
+C00352,Business,Auto Repair,68426.27,US,2019-05-11
+C00353,Individual,Teacher,12760.58,US,2020-05-04
+C00354,Individual,Teacher,9969.19,US,2024-12-22
+C00355,Individual,Retail Associate,14528.78,US,2025-06-30
+C00356,Individual,Teacher,8462.09,US,2021-09-23
+C00357,Individual,Teacher,10173.6,US,2022-02-13
+C00358,Individual,Retired,5549.51,US,2023-05-07
+C00359,Individual,Accountant,10651.09,US,2022-06-05
+C00360,Individual,Accountant,7643.55,US,2025-09-09
+C00361,Individual,Nurse,12663.61,US,2025-06-02
+C00362,Individual,Teacher,11617.17,US,2018-04-04
+C00363,Individual,Retail Associate,10416.42,US,2019-09-17
+C00364,Business,Restaurant,42787.65,US,2019-10-02
+C00365,Business,Auto Repair,158804.96,US,2021-05-12
+C00366,Business,Consulting,199133.1,US,2022-05-13
+C00367,Business,Grocery Store,145421.55,US,2018-01-07
+C00368,Individual,Student,13926.36,US,2023-12-23
+C00369,Individual,Accountant,6179.73,US,2021-11-06
+C00370,Individual,Driver,10572.0,US,2020-03-04
+C00371,Business,Grocery Store,156960.4,US,2019-03-25
+C00372,Individual,Retail Associate,10659.41,US,2025-05-23
+C00373,Individual,Retail Associate,6476.66,US,2020-11-28
+C00374,Individual,Retired,12459.59,US,2024-01-24
+C00375,Individual,Retail Associate,9784.19,US,2017-11-30
+C00376,Individual,Retired,8815.13,US,2024-10-27
+C00377,Individual,Teacher,13164.64,US,2020-04-18
+C00378,Individual,Accountant,6327.33,US,2025-10-07
+C00379,Individual,Retired,12284.73,US,2017-12-10
+C00380,Individual,Retail Associate,13128.71,US,2020-06-05
+C00381,Business,Consulting,142358.34,US,2025-01-26
+C00382,Individual,Driver,8204.21,US,2021-08-10
+C00383,Individual,Teacher,6842.85,US,2021-02-21
+C00384,Individual,Accountant,6339.39,US,2019-11-06
+C00385,Individual,Engineer,11841.0,US,2023-12-10
+C00386,Individual,Driver,5874.32,US,2019-02-25
+C00387,Individual,Teacher,3864.5,US,2020-05-13
+C00388,Individual,Accountant,9495.66,US,2018-04-06
+C00389,Individual,Retail Associate,13911.28,US,2021-02-16
+C00390,Business,Consulting,190486.19,US,2020-04-13
+C00391,Individual,Retired,14615.45,US,2019-06-29
+C00392,Individual,Nurse,8235.21,US,2025-01-25
+C00393,Individual,Nurse,5257.73,US,2023-12-10
+C00394,Business,Grocery Store,53992.02,US,2019-10-01
+C00395,Individual,Retired,11374.73,US,2021-06-15
+C00396,Individual,Retired,3574.39,US,2022-06-16
+C00397,Individual,Teacher,4190.64,US,2024-01-26
+C00398,Business,Import/Export,139486.17,US,2020-06-24
+C00399,Individual,Teacher,9710.61,US,2024-11-05
+C00400,Individual,Retail Associate,11911.82,US,2022-09-19
+C00401,Individual,Retired,3706.67,US,2019-06-24
+C00402,Individual,Teacher,10790.7,US,2025-07-18
+C00403,Individual,Nurse,3708.73,US,2024-01-20
+C00404,Individual,Retired,11044.54,US,2022-04-19
+C00405,Business,Grocery Store,143749.99,US,2023-11-29
+C00406,Individual,Driver,10407.66,US,2023-10-21
+C00407,Individual,Student,6310.76,US,2020-12-20
+C00408,Individual,Retail Associate,8460.58,US,2020-08-28
+C00409,Individual,Retired,4661.59,US,2018-10-18
+C00410,Individual,Retired,5733.55,US,2023-11-24
+C00411,Individual,Retired,9026.05,US,2018-09-19
+C00412,Individual,Retired,8652.81,US,2023-11-17
+C00413,Individual,Nurse,5506.64,US,2022-01-12
+C00414,Individual,Retail Associate,5400.62,US,2018-11-02
+C00415,Individual,Teacher,9992.92,US,2020-06-06
+C00416,Individual,Retail Associate,13770.45,US,2021-07-30
+C00417,Individual,Retail Associate,13940.93,US,2017-10-16
+C00418,Individual,Retail Associate,7237.2,US,2024-06-17
+C00419,Individual,Accountant,6287.41,US,2025-08-19
+C00420,Individual,Student,10380.3,US,2019-12-28
+C00421,Individual,Teacher,14168.73,US,2021-09-30
+C00422,Individual,Nurse,5452.98,US,2018-10-08
+C00423,Individual,Retail Associate,13264.89,US,2019-05-11
+C00424,Individual,Student,7747.16,US,2020-05-23
+C00425,Individual,Retail Associate,8100.47,US,2019-01-18
+C00426,Business,Grocery Store,50847.48,US,2024-11-17
+C00427,Business,Consulting,121207.94,US,2020-06-09
+C00428,Individual,Retail Associate,13664.11,US,2025-02-23
+C00429,Business,Consulting,140109.26,US,2019-06-18
+C00430,Individual,Nurse,6177.13,US,2022-04-15
+C00431,Individual,Teacher,3349.55,US,2018-08-31
+C00432,Individual,Nurse,9808.39,US,2023-07-25
+C00433,Individual,Retired,11345.69,US,2022-12-17
+C00434,Individual,Nurse,7498.39,US,2024-07-10
+C00435,Individual,Retail Associate,12471.1,US,2018-12-02
+C00436,Business,Auto Repair,71806.69,US,2025-03-20
+C00437,Business,Auto Repair,50429.06,US,2018-11-11
+C00438,Individual,Accountant,13889.38,US,2024-06-19
+C00439,Business,Auto Repair,60661.19,US,2023-07-01
+C00440,Individual,Retail Associate,4295.87,US,2019-03-08
+C00441,Business,Auto Repair,64021.3,US,2023-11-15
+C00442,Individual,Teacher,14899.21,US,2018-04-15
+C00443,Individual,Student,13061.8,US,2020-07-23
+C00444,Individual,Driver,13507.25,US,2023-05-12
+C00445,Individual,Retired,4913.96,US,2024-02-29
+C00446,Individual,Teacher,7663.86,US,2018-07-24
+C00447,Individual,Retired,4110.71,US,2023-10-04
+C00448,Business,Consulting,138510.21,US,2023-11-13
+C00449,Individual,Accountant,6320.42,US,2020-11-05
+C00450,Individual,Engineer,12725.48,US,2023-07-31
+C00451,Individual,Student,9464.13,US,2018-06-08
+C00452,Individual,Accountant,9487.95,US,2025-01-07
+C00453,Individual,Retail Associate,14109.7,US,2019-06-15
+C00454,Individual,Retired,5236.12,US,2022-11-30
+C00455,Individual,Accountant,11749.57,US,2022-09-10
+C00456,Individual,Teacher,3968.97,US,2021-09-25
+C00457,Individual,Accountant,7409.87,US,2020-07-23
+C00458,Business,Restaurant,54032.05,US,2021-07-22
+C00459,Individual,Retired,7169.48,US,2025-01-28
+C00460,Individual,Teacher,3546.43,US,2017-10-24
+C00461,Individual,Teacher,9137.73,US,2019-10-23
+C00462,Individual,Retired,7653.7,US,2024-04-26
+C00463,Individual,Retail Associate,9079.82,US,2024-08-19
+C00464,Individual,Teacher,5688.27,US,2021-04-05
+C00465,Business,Restaurant,170374.14,US,2023-03-01
+C00466,Individual,Retired,12441.23,US,2018-08-26
+C00467,Individual,Retail Associate,9520.89,US,2019-07-14
+C00468,Business,Grocery Store,20666.1,US,2018-08-23
+C00469,Business,Consulting,136375.07,US,2018-07-28
+C00470,Individual,Accountant,5198.64,US,2019-08-01
+C00471,Individual,Retired,7025.26,US,2025-02-20
+C00472,Individual,Nurse,7576.05,US,2024-12-23
+C00473,Business,Consulting,180078.6,US,2020-04-10
+C00474,Individual,Teacher,5560.4,US,2018-07-25
+C00475,Individual,Nurse,9289.3,US,2023-08-02
+C00476,Individual,Accountant,10108.2,US,2022-06-04
+C00477,Individual,Nurse,6170.65,US,2023-05-08
+C00478,Individual,Driver,8008.15,US,2018-12-12
+C00479,Individual,Retired,9413.29,US,2020-10-08
+C00480,Individual,Nurse,11523.67,US,2022-04-12
+C00481,Individual,Teacher,6538.9,US,2020-11-29
+C00482,Individual,Accountant,11872.58,US,2021-08-31
+C00483,Individual,Retail Associate,8398.41,US,2017-11-08
+C00484,Individual,Nurse,14299.33,US,2024-08-07
+C00485,Individual,Retired,8372.64,US,2018-08-24
+C00486,Individual,Retired,7724.31,US,2025-02-03
+C00487,Individual,Nurse,6012.25,US,2020-01-30
+C00488,Business,Grocery Store,140621.11,US,2023-05-17
+C00489,Individual,Nurse,4592.81,US,2022-08-07
+C00490,Business,Import/Export,126239.08,US,2022-03-31
+C00491,Individual,Teacher,11919.92,US,2021-12-17
+C00492,Individual,Retail Associate,12494.01,US,2018-07-09
+C00493,Individual,Nurse,4385.69,US,2018-03-24
+C00494,Business,Grocery Store,141361.14,US,2024-03-16
+C00495,Individual,Retired,11535.73,US,2018-03-07
+C00496,Individual,Accountant,3833.26,US,2021-07-28
+C00497,Individual,Nurse,5835.43,US,2018-08-30
+C00498,Individual,Retired,3087.4,US,2023-05-05
+C00499,Individual,Nurse,14581.96,US,2019-05-15
+C00500,Individual,Nurse,4274.7,US,2021-01-16
+C00501,Individual,Student,14349.75,US,2023-02-23
+C00502,Business,Consulting,177975.75,US,2022-09-05
+C00503,Individual,Retired,8720.59,US,2020-05-29
+C00504,Individual,Teacher,3934.43,US,2019-07-04
+C00505,Individual,Retail Associate,10701.7,US,2024-05-12
+C00506,Individual,Retail Associate,8171.91,US,2024-02-02
+C00507,Business,Consulting,167361.64,US,2023-07-16
+C00508,Individual,Engineer,4161.8,US,2024-06-14
+C00509,Individual,Nurse,8020.39,US,2022-10-22
+C00510,Individual,Retired,9512.3,US,2023-05-05
+C00511,Individual,Accountant,8921.85,US,2019-02-11
+C00512,Individual,Accountant,4167.01,US,2021-08-04
+C00513,Individual,Teacher,5490.69,US,2019-10-21
+C00514,Individual,Engineer,3244.87,US,2022-01-05
+C00515,Individual,Student,14255.71,US,2022-12-20
+C00516,Individual,Teacher,13639.5,US,2021-04-12
+C00517,Individual,Accountant,14029.2,US,2018-09-20
+C00518,Individual,Driver,10088.32,US,2018-08-09
+C00519,Individual,Engineer,11669.08,US,2025-02-14
+C00520,Individual,Driver,8769.51,US,2021-04-28
+C00521,Individual,Retired,10090.27,US,2025-07-04
+C00522,Individual,Retired,11643.73,US,2018-12-30
+C00523,Individual,Engineer,5759.34,US,2023-03-25
+C00524,Individual,Teacher,4232.61,US,2021-11-28
+C00525,Individual,Nurse,7314.33,US,2019-07-04
+C00526,Business,Grocery Store,48466.93,US,2018-09-12
+C00527,Individual,Accountant,13541.42,US,2020-02-18
+C00528,Business,Import/Export,112518.95,US,2021-02-03
+C00529,Individual,Nurse,4044.72,US,2019-04-18
+C00530,Individual,Retired,12822.99,US,2021-09-21
+C00531,Individual,Accountant,10876.51,US,2024-07-29
+C00532,Business,Auto Repair,66955.95,US,2024-01-04
+C00533,Individual,Engineer,9248.11,US,2023-09-08
+C00534,Individual,Nurse,7070.35,US,2020-10-31
+C00535,Individual,Teacher,6387.07,US,2021-12-08
+C00536,Individual,Student,13858.67,US,2022-09-20
+C00537,Individual,Student,3542.92,US,2025-04-14
+C00538,Individual,Retired,12931.52,US,2023-01-28
+C00539,Individual,Student,9336.14,US,2023-11-25
+C00540,Individual,Student,8666.37,US,2021-12-24
+C00541,Individual,Driver,7027.81,US,2022-06-26
+C00542,Individual,Accountant,6137.82,US,2019-05-01
+C00543,Individual,Engineer,5815.67,US,2020-09-30
+C00544,Business,Grocery Store,112447.58,US,2025-04-03
+C00545,Individual,Teacher,10116.74,US,2018-09-16
+C00546,Individual,Driver,4439.85,US,2021-06-20
+C00547,Individual,Accountant,4500.87,US,2018-11-17
+C00548,Individual,Driver,8867.3,US,2019-03-15
+C00549,Individual,Driver,8940.02,US,2021-12-17
+C00550,Individual,Engineer,6834.31,US,2018-07-03
+C00551,Individual,Teacher,5752.66,US,2019-05-23
+C00552,Individual,Student,11482.42,US,2019-10-09
+C00553,Individual,Retired,11968.59,US,2022-06-14
+C00554,Individual,Student,13180.87,US,2024-02-07
+C00555,Individual,Driver,8466.24,US,2024-08-04
+C00556,Business,Auto Repair,89246.61,US,2019-11-04
+C00557,Individual,Retail Associate,5161.5,US,2020-09-26
+C00558,Individual,Nurse,13226.59,US,2021-01-21
+C00559,Individual,Nurse,13037.26,US,2018-03-02
+C00560,Individual,Teacher,3704.92,US,2020-07-23
+C00561,Individual,Nurse,11092.41,US,2024-12-27
+C00562,Individual,Accountant,9797.47,US,2018-10-18
+C00563,Individual,Student,10868.96,US,2021-09-09
+C00564,Individual,Engineer,13694.1,US,2025-03-15
+C00565,Individual,Accountant,8855.1,US,2024-05-06
+C00566,Individual,Teacher,13603.6,US,2020-07-31
+C00567,Individual,Teacher,13369.56,US,2023-08-15
+C00568,Individual,Student,7198.66,US,2021-03-08
+C00569,Individual,Engineer,4548.72,US,2023-02-22
+C00570,Individual,Accountant,4367.51,US,2024-12-20
+C00571,Individual,Engineer,10634.91,US,2024-04-08
+C00572,Individual,Nurse,11008.87,US,2021-04-19
+C00573,Individual,Nurse,8235.59,US,2025-07-18
+C00574,Business,Grocery Store,125774.19,US,2019-04-09
+C00575,Individual,Retired,4508.61,US,2022-05-30
+C00576,Individual,Driver,5615.61,US,2020-06-08
+C00577,Individual,Driver,14632.02,US,2021-10-01
+C00578,Individual,Teacher,3968.5,US,2023-03-04
+C00579,Individual,Driver,13839.47,US,2018-01-29
+C00580,Business,Auto Repair,40187.93,US,2022-04-17
+C00581,Individual,Nurse,10387.76,US,2023-01-02
+C00582,Business,Restaurant,193567.53,US,2025-03-16
+C00583,Individual,Retired,10336.36,US,2023-08-03
+C00584,Individual,Engineer,9941.0,US,2022-11-10
+C00585,Individual,Student,5591.52,US,2022-10-27
+C00586,Business,Grocery Store,69967.81,US,2018-11-27
+C00587,Individual,Retail Associate,9666.14,US,2019-05-20
+C00588,Individual,Nurse,10505.14,US,2019-05-05
+C00589,Individual,Accountant,13519.83,US,2022-10-11
+C00590,Individual,Driver,3463.13,US,2018-04-26
+C00591,Individual,Nurse,6544.26,US,2022-03-04
+C00592,Individual,Accountant,5336.04,US,2019-04-29
+C00593,Individual,Nurse,9554.02,US,2019-03-09
+C00594,Individual,Retail Associate,11281.19,US,2018-05-01
+C00595,Individual,Accountant,4069.88,US,2022-07-05
+C00596,Individual,Driver,6849.1,US,2024-06-03
+C00597,Business,Import/Export,116624.94,US,2024-02-04
+C00598,Individual,Student,7225.48,US,2019-10-06
+C00599,Individual,Retail Associate,7346.93,US,2025-02-02
+C00600,Individual,Engineer,4743.01,US,2021-01-09
+C00601,Individual,Engineer,4959.5,US,2025-03-30
+C00602,Individual,Engineer,8035.19,US,2025-07-10
+C00603,Individual,Driver,12391.55,US,2023-10-12
+C00604,Individual,Student,12644.21,US,2023-12-17
+C00605,Individual,Retired,12329.76,US,2019-06-04
+C00606,Individual,Engineer,12597.24,US,2024-01-23
+C00607,Business,Auto Repair,177636.63,US,2019-07-28
+C00608,Business,Consulting,173682.15,US,2025-09-12
+C00609,Business,Auto Repair,196705.52,US,2023-12-21
+C00610,Individual,Teacher,4334.5,US,2020-09-16
+C00611,Individual,Retired,7657.63,US,2021-12-17
+C00612,Individual,Student,11023.67,US,2020-02-15
+C00613,Business,Import/Export,30195.1,US,2023-06-25
+C00614,Individual,Nurse,11277.73,US,2023-04-16
+C00615,Individual,Driver,3800.26,US,2023-07-27
+C00616,Individual,Retired,7807.69,US,2025-04-20
+C00617,Individual,Student,6161.23,US,2019-05-09
+C00618,Individual,Retail Associate,5543.71,US,2019-05-28
+C00619,Individual,Teacher,3618.29,US,2019-08-04
+C00620,Individual,Driver,14951.68,US,2023-11-13
+C00621,Individual,Engineer,12501.14,US,2020-10-15
+C00622,Individual,Retired,3076.36,US,2020-12-31
+C00623,Individual,Retired,8034.59,US,2019-11-07
+C00624,Business,Import/Export,177287.06,US,2025-04-17
+C00625,Individual,Nurse,6777.25,US,2020-11-10
+C00626,Individual,Driver,8508.65,US,2024-12-17
+C00627,Individual,Retail Associate,9165.18,US,2025-05-14
+C00628,Individual,Engineer,5212.47,US,2023-02-23
+C00629,Individual,Retail Associate,6394.12,US,2021-03-11
+C00630,Business,Restaurant,97370.33,US,2024-05-09
+C00631,Business,Import/Export,116042.86,US,2020-07-11
+C00632,Individual,Teacher,7959.27,US,2023-05-15
+C00633,Individual,Retired,13807.62,US,2022-12-14
+C00634,Individual,Teacher,6731.85,US,2020-02-29
+C00635,Individual,Engineer,13641.64,US,2021-03-24
+C00636,Individual,Retail Associate,13446.37,US,2018-09-04
+C00637,Individual,Teacher,10899.89,US,2024-09-01
+C00638,Individual,Driver,7395.26,US,2018-11-15
+C00639,Individual,Accountant,13649.58,US,2021-12-28
+C00640,Individual,Nurse,10951.26,US,2019-03-27
+C00641,Individual,Nurse,5183.53,US,2018-10-12
+C00642,Individual,Driver,12275.54,US,2018-02-09
+C00643,Business,Consulting,93978.96,US,2020-09-04
+C00644,Individual,Retail Associate,5189.1,US,2018-03-12
+C00645,Individual,Engineer,14741.74,US,2025-09-22
+C00646,Individual,Engineer,3804.18,US,2018-09-20
+C00647,Individual,Student,14264.15,US,2020-05-14
+C00648,Individual,Retired,11981.94,US,2025-02-14
+C00649,Business,Auto Repair,38396.33,US,2018-11-04
+C00650,Individual,Engineer,3394.91,US,2025-04-14
+C00651,Individual,Accountant,5157.86,US,2018-12-09
+C00652,Business,Consulting,145712.49,US,2024-03-05
+C00653,Business,Consulting,121230.52,US,2022-02-08
+C00654,Individual,Nurse,8828.47,US,2025-01-19
+C00655,Individual,Accountant,8134.24,US,2020-07-01
+C00656,Individual,Retired,10322.4,US,2024-03-26
+C00657,Individual,Retired,3271.83,US,2025-07-18
+C00658,Business,Restaurant,20195.85,US,2019-03-16
+C00659,Individual,Accountant,13674.56,US,2019-07-08
+C00660,Individual,Teacher,7655.99,US,2020-04-22
+C00661,Business,Import/Export,172241.36,US,2021-02-10
+C00662,Individual,Engineer,5544.78,US,2025-01-20
+C00663,Individual,Student,13661.06,US,2019-01-05
+C00664,Individual,Retail Associate,13436.47,US,2020-01-03
+C00665,Individual,Retail Associate,13247.34,US,2024-10-09
+C00666,Individual,Driver,11031.01,US,2025-07-27
+C00667,Individual,Retired,12890.43,US,2020-01-18
+C00668,Business,Import/Export,170215.27,US,2022-07-07
+C00669,Individual,Retail Associate,8971.26,US,2023-02-14
+C00670,Individual,Student,7984.88,US,2020-02-11
+C00671,Individual,Retired,4335.14,US,2022-08-18
+C00672,Individual,Driver,14163.81,US,2018-07-26
+C00673,Individual,Engineer,3973.15,US,2020-05-01
+C00674,Individual,Engineer,9491.42,US,2018-12-10
+C00675,Individual,Nurse,14348.99,US,2025-01-12
+C00676,Individual,Nurse,6999.85,US,2022-10-29
+C00677,Individual,Accountant,9491.74,US,2020-09-01
+C00678,Individual,Student,13001.58,US,2020-06-23
+C00679,Individual,Teacher,12251.06,US,2023-03-19
+C00680,Individual,Student,10765.05,US,2023-08-03
+C00681,Individual,Driver,5409.87,US,2025-04-14
+C00682,Individual,Nurse,9488.13,US,2019-02-07
+C00683,Individual,Student,7654.67,US,2019-11-06
+C00684,Individual,Engineer,4572.69,US,2022-10-04
+C00685,Individual,Accountant,11645.49,US,2019-10-12
+C00686,Individual,Student,13508.01,US,2024-05-07
+C00687,Individual,Teacher,14650.86,US,2020-10-28
+C00688,Individual,Driver,8038.43,US,2023-03-20
+C00689,Business,Grocery Store,134930.18,US,2019-02-08
+C00690,Individual,Nurse,12898.23,US,2024-07-17
+C00691,Individual,Teacher,5664.53,US,2023-03-28
+C00692,Business,Import/Export,195322.56,US,2024-10-25
+C00693,Individual,Accountant,10669.15,US,2021-12-17
+C00694,Individual,Retail Associate,3913.71,US,2019-06-16
+C00695,Individual,Retail Associate,3465.78,US,2018-02-01
+C00696,Individual,Retired,5091.62,US,2023-10-08
+C00697,Individual,Teacher,3362.76,US,2022-08-01
+C00698,Individual,Engineer,7887.8,US,2021-03-10
+C00699,Individual,Teacher,5561.1,US,2022-08-04
+C00700,Individual,Driver,4568.89,US,2025-03-26
+C00701,Individual,Nurse,4768.24,US,2017-10-23
+C00702,Business,Consulting,100846.06,US,2020-06-11
+C00703,Business,Restaurant,68704.3,US,2023-04-30
+C00704,Individual,Driver,14444.51,US,2025-01-20
+C00705,Individual,Teacher,7390.39,US,2023-12-08
+C00706,Individual,Retail Associate,3462.43,US,2022-10-09
+C00707,Individual,Nurse,5375.51,US,2024-04-06
+C00708,Individual,Driver,10648.86,US,2019-03-09
+C00709,Business,Grocery Store,166620.86,US,2019-11-11
+C00710,Business,Auto Repair,26029.08,US,2020-09-06
+C00711,Business,Restaurant,84536.73,US,2025-03-17
+C00712,Individual,Teacher,9288.76,US,2023-12-06
+C00713,Individual,Retired,10385.61,US,2022-05-25
+C00714,Individual,Nurse,14463.88,US,2020-01-10
+C00715,Individual,Nurse,14376.3,US,2017-10-22
+C00716,Individual,Retired,6063.74,US,2024-08-10
+C00717,Business,Auto Repair,155851.66,US,2020-05-12
+C00718,Individual,Driver,10324.52,US,2019-08-15
+C00719,Individual,Teacher,9422.32,US,2023-11-02
+C00720,Individual,Accountant,5650.96,US,2022-04-19
+C00721,Individual,Teacher,7298.8,US,2023-02-25
+C00722,Individual,Student,8634.38,US,2018-06-04
+C00723,Individual,Retail Associate,5301.25,US,2023-01-25
+C00724,Individual,Nurse,11945.46,US,2022-02-06
+C00725,Individual,Nurse,12111.84,US,2025-08-29
+C00726,Individual,Engineer,6077.99,US,2023-11-06
+C00727,Individual,Engineer,5401.88,US,2025-07-26
+C00728,Individual,Driver,5715.74,US,2023-11-11
+C00729,Individual,Accountant,12237.49,US,2020-11-27
+C00730,Individual,Nurse,12185.52,US,2022-08-30
+C00731,Individual,Retired,9144.21,US,2017-11-14
+C00732,Individual,Nurse,14963.18,US,2023-09-19
+C00733,Individual,Retired,12408.74,US,2021-12-05
+C00734,Individual,Retired,10421.22,US,2024-09-22
+C00735,Business,Restaurant,146939.53,US,2019-05-04
+C00736,Individual,Retired,10196.98,US,2019-04-02
+C00737,Business,Consulting,75825.53,US,2023-01-18
+C00738,Business,Auto Repair,72354.13,US,2018-11-28
+C00739,Individual,Student,7058.67,US,2022-04-01
+C00740,Individual,Retired,11037.38,US,2018-10-25
+C00741,Individual,Retail Associate,8165.3,US,2025-03-24
+C00742,Individual,Teacher,11761.51,US,2023-06-11
+C00743,Business,Import/Export,116895.98,US,2018-12-29
+C00744,Individual,Retail Associate,5088.58,US,2018-06-13
+C00745,Business,Import/Export,61803.57,US,2025-08-20
+C00746,Individual,Engineer,6183.77,US,2025-05-06
+C00747,Individual,Student,3675.24,US,2022-07-04
+C00748,Individual,Teacher,6567.84,US,2022-01-02
+C00749,Individual,Driver,7930.51,US,2018-03-16
+C00750,Individual,Retired,6400.92,US,2020-11-20
+C00751,Individual,Driver,6899.3,US,2020-06-02
+C00752,Business,Auto Repair,43269.36,US,2022-12-28
+C00753,Individual,Teacher,14921.96,US,2021-07-30
+C00754,Individual,Retail Associate,7632.83,US,2020-04-07
+C00755,Individual,Teacher,12096.57,US,2022-06-12
+C00756,Individual,Engineer,8768.0,US,2018-05-31
+C00757,Individual,Teacher,10577.29,US,2019-02-10
+C00758,Individual,Retail Associate,11562.74,US,2025-01-10
+C00759,Business,Restaurant,65598.71,US,2025-07-24
+C00760,Individual,Driver,9681.74,US,2022-05-21
+C00761,Individual,Accountant,8278.02,US,2019-12-02
+C00762,Individual,Retail Associate,6844.92,US,2023-03-12
+C00763,Individual,Driver,12765.69,US,2021-09-06
+C00764,Individual,Student,7461.68,US,2019-03-02
+C00765,Individual,Engineer,9630.95,US,2022-05-11
+C00766,Individual,Teacher,14270.72,US,2021-06-20
+C00767,Individual,Teacher,13447.03,US,2023-01-10
+C00768,Business,Consulting,193576.02,US,2023-12-10
+C00769,Individual,Student,11107.04,US,2021-10-05
+C00770,Individual,Driver,13351.74,US,2024-04-22
+C00771,Individual,Accountant,7505.2,US,2022-01-09
+C00772,Business,Consulting,38062.27,US,2024-06-13
+C00773,Business,Auto Repair,167146.23,US,2025-03-02
+C00774,Business,Consulting,153539.1,US,2023-08-05
+C00775,Individual,Retail Associate,4287.64,US,2025-09-24
+C00776,Individual,Retired,6712.13,US,2019-05-25
+C00777,Individual,Accountant,11470.71,US,2020-03-12
+C00778,Individual,Student,5326.05,US,2019-09-05
+C00779,Individual,Retired,14465.77,US,2019-06-29
+C00780,Individual,Nurse,8424.3,US,2023-05-19
+C00781,Individual,Retail Associate,3872.95,US,2025-10-08
+C00782,Individual,Driver,13181.17,US,2019-03-04
+C00783,Individual,Teacher,5738.6,US,2018-07-09
+C00784,Individual,Student,10787.83,US,2018-05-17
+C00785,Business,Grocery Store,121334.76,US,2020-02-10
+C00786,Business,Grocery Store,38182.32,US,2023-10-21
+C00787,Individual,Retail Associate,14438.61,US,2019-07-13
+C00788,Individual,Retail Associate,13240.46,US,2018-06-05
+C00789,Individual,Nurse,10262.86,US,2020-12-09
+C00790,Individual,Accountant,12818.05,US,2025-02-17
+C00791,Business,Consulting,75944.13,US,2020-03-28
+C00792,Individual,Engineer,5496.89,US,2020-01-10
+C00793,Individual,Retail Associate,7301.08,US,2025-03-22
+C00794,Business,Restaurant,118926.55,US,2017-11-23
+C00795,Individual,Driver,10777.03,US,2020-06-12
+C00796,Business,Restaurant,96357.2,US,2021-08-22
+C00797,Individual,Accountant,3411.75,US,2021-09-08
+C00798,Business,Restaurant,20252.77,US,2022-04-03
+C00799,Individual,Nurse,10160.69,US,2020-03-23
+C00800,Business,Grocery Store,84623.34,US,2020-05-27
+C00801,Individual,Nurse,11176.79,US,2021-09-25
+C00802,Individual,Teacher,8979.21,US,2022-09-19
+C00803,Individual,Engineer,7778.82,US,2022-01-26
+C00804,Individual,Teacher,10684.56,US,2019-09-01
+C00805,Individual,Engineer,6439.99,US,2023-06-20
+C00806,Individual,Retired,4881.07,US,2020-07-20
+C00807,Individual,Retired,8018.88,US,2023-09-01
+C00808,Individual,Student,11279.06,US,2022-07-10
+C00809,Individual,Teacher,12685.86,US,2018-07-28
+C00810,Individual,Retail Associate,11517.21,US,2018-04-10
+C00811,Individual,Student,5127.34,US,2018-06-25
+C00812,Individual,Engineer,3895.25,US,2021-06-26
+C00813,Individual,Accountant,6505.17,US,2020-11-17
+C00814,Individual,Driver,5278.63,US,2022-07-10
+C00815,Individual,Student,14962.08,US,2019-07-26
+C00816,Individual,Nurse,7031.5,US,2018-06-27
+C00817,Individual,Teacher,5082.22,US,2018-12-02
+C00818,Individual,Student,9512.71,US,2025-02-09
+C00819,Individual,Driver,4167.56,US,2024-10-23
+C00820,Individual,Retired,9065.38,US,2018-12-09
+C00821,Individual,Accountant,9865.86,US,2022-10-08
+C00822,Individual,Accountant,3197.28,US,2023-10-09
+C00823,Individual,Student,8799.75,US,2022-12-06
+C00824,Individual,Teacher,7953.24,US,2024-04-03
+C00825,Individual,Student,2500.0,US,2022-01-31
+C00826,Individual,Student,2500.0,US,2020-09-26
+C00827,Individual,Student,2500.0,US,2019-06-28
+C00828,Individual,Student,2500.0,US,2022-05-30
+C00829,Individual,Student,2500.0,US,2022-10-12
+C00830,Individual,Student,2500.0,US,2023-07-30
+C00831,Individual,Student,2500.0,US,2019-02-04
+C00832,Individual,Student,2500.0,US,2022-02-03
+C00833,Individual,Accountant,14954.37,US,2022-03-29
+C00834,Individual,Engineer,5929.13,US,2020-02-07
+C00835,Individual,Teacher,6364.64,US,2024-01-29
+C00836,Individual,Driver,4565.98,US,2024-12-08
+C00837,Individual,Retail Associate,9711.21,US,2018-05-03
+C00838,Individual,Nurse,4006.58,US,2021-11-13
+C00839,Individual,Nurse,9532.32,US,2024-11-13
+C00840,Individual,Driver,5882.97,US,2024-01-25
+C00841,Individual,Driver,11514.63,US,2023-02-02
+C00842,Individual,Engineer,10158.79,US,2018-08-25
+C00843,Individual,Nurse,14895.44,US,2019-05-08
+C00844,Individual,Accountant,4907.91,US,2019-07-27
+C00845,Individual,Driver,5591.12,US,2018-07-02
+C00846,Individual,Engineer,13499.01,US,2024-01-14
+C00847,Individual,Student,8226.22,US,2019-04-28
+C00848,Individual,Engineer,12612.88,US,2021-05-01
+C00849,Individual,Teacher,8933.51,US,2022-11-29
+C00850,Individual,Student,8332.0,US,2017-11-09
+C00851,Individual,Driver,8338.18,US,2023-08-26
+C00852,Individual,Retail Associate,5407.68,US,2023-06-26
+C00853,Individual,Retired,9687.08,US,2020-02-24
+C00854,Individual,Engineer,7929.82,US,2020-05-26
+C00855,Individual,Accountant,11958.16,US,2021-05-06
+C00856,Individual,Retail Associate,11678.45,US,2018-03-17
+C00857,Individual,Retail Associate,6797.96,US,2021-03-08
+C00858,Individual,Engineer,13312.55,US,2020-12-11
+C00859,Individual,Engineer,14643.95,US,2023-12-24
+C00860,Individual,Accountant,10170.78,US,2024-07-15
+C00861,Individual,Retail Associate,9552.51,US,2021-02-25
+C00862,Individual,Retired,14926.39,US,2018-06-27
+C00863,Individual,Student,9715.71,US,2023-08-07
+C00864,Individual,Teacher,7132.6,US,2023-04-14
+C00865,Individual,Accountant,12522.84,US,2024-12-27
+C00866,Individual,Driver,6288.35,US,2021-01-17
+C00867,Individual,Student,11326.46,US,2019-09-03
+C00868,Individual,Driver,13821.66,US,2020-10-05
+C00869,Individual,Nurse,14452.46,US,2018-02-05
+C00870,Individual,Nurse,12594.68,US,2025-05-26
+C00871,Individual,Engineer,4822.05,US,2025-07-31
+C00872,Individual,Accountant,10688.42,US,2024-04-03
+C00873,Individual,Retired,11453.1,US,2022-02-23
+C00874,Individual,Teacher,4314.37,US,2022-09-12
+C00875,Individual,Retail Associate,12130.3,US,2021-08-19
+C00876,Individual,Student,3003.71,US,2025-08-19
+C00877,Individual,Accountant,10751.42,US,2021-05-20
+C00878,Individual,Nurse,11690.53,US,2020-10-11
+C00879,Individual,Engineer,13063.54,US,2025-09-22
+C00880,Individual,Driver,7633.67,US,2022-02-11
+C00881,Individual,Retail Associate,10501.15,US,2018-08-17
+C00882,Individual,Engineer,10546.85,US,2022-03-23
+C00883,Individual,Retired,8920.87,US,2023-08-20
+C00884,Individual,Teacher,6493.52,US,2023-10-22
+C00885,Individual,Teacher,10967.35,US,2020-12-05
+C00886,Individual,Engineer,10826.39,US,2020-05-06
+C00887,Individual,Nurse,7108.82,US,2019-03-16
+C00888,Individual,Retail Associate,5372.67,US,2018-03-07
+C00889,Individual,Nurse,11457.09,US,2023-11-08
+C00890,Individual,Teacher,4858.01,US,2025-11-25
+C00891,Individual,Engineer,4925.29,US,2019-04-10
+C00892,Individual,Teacher,4990.57,US,2024-02-16
+C00893,Individual,Teacher,7449.67,US,2018-03-23
+C00894,Individual,Teacher,5592.22,US,2021-02-23
+C00895,Individual,Teacher,3628.65,US,2020-01-14
+C00896,Individual,Retail Associate,7429.67,US,2019-06-12
+C00897,Individual,Retail Associate,5403.87,US,2019-03-22
+C00898,Individual,Retired,13037.75,US,2020-01-07
+C00899,Individual,Student,9298.16,US,2020-12-12
+C00900,Individual,Retired,9883.91,US,2025-09-09
+C00901,Individual,Retail Associate,6534.49,US,2019-04-01
+C00902,Individual,Retired,3377.08,US,2018-12-23
+C00903,Individual,Accountant,5435.91,US,2023-07-16
+C00904,Individual,Engineer,12894.56,US,2019-08-03
+C00905,Individual,Retail Associate,5472.35,US,2021-09-30
+C00906,Individual,Nurse,12688.24,US,2025-11-08
+C00907,Individual,Student,10008.57,US,2020-09-27
+C00908,Individual,Accountant,13952.08,US,2024-07-20
+C00909,Individual,Retired,8272.43,US,2018-09-30
+C00910,Individual,Teacher,11035.16,US,2018-03-15
+C00911,Individual,Engineer,3828.52,US,2021-07-31
+C00912,Individual,Engineer,8016.51,US,2023-07-01
+C00913,Individual,Retired,3293.31,US,2025-03-15
+C00914,Individual,Teacher,12142.26,US,2022-05-14
+C00915,Individual,Student,9522.34,US,2018-05-20
+C00916,Individual,Retail Associate,14005.56,US,2022-01-09
+C00917,Individual,Engineer,3399.93,US,2024-11-14
+C00918,Individual,Accountant,9140.96,US,2022-12-07
+C00919,Individual,Retired,8728.43,US,2024-01-08
+C00920,Individual,Accountant,7023.06,US,2023-11-21
+C00921,Individual,Accountant,11035.8,US,2023-05-14
+C00922,Individual,Retired,14793.53,US,2024-03-24
+C00923,Individual,Engineer,7894.1,US,2020-06-23
+C00924,Individual,Student,7059.0,US,2022-05-10
+C00925,Individual,Teacher,3764.32,US,2019-05-09
+C00926,Individual,Driver,4041.32,US,2024-04-23
+C00927,Individual,Accountant,7969.44,US,2021-05-03
+C00928,Individual,Driver,8660.16,US,2024-03-28
+C00929,Individual,Teacher,3861.87,US,2021-02-17
+C00930,Individual,Teacher,13129.38,US,2020-03-28
+C00931,Individual,Retired,13703.34,US,2019-03-22
+C00932,Individual,Engineer,6253.34,US,2020-07-08
+C00933,Individual,Retired,11761.4,US,2022-12-04
+C00934,Individual,Accountant,8389.87,US,2025-05-04
+C00935,Individual,Accountant,13615.74,US,2024-06-22
+C00936,Individual,Engineer,13824.1,US,2023-05-12
+C00937,Individual,Retail Associate,13653.45,US,2023-03-25
+C00938,Individual,Driver,12720.31,US,2021-03-26
+C00939,Individual,Nurse,9126.85,US,2022-09-07
+C00940,Individual,Retired,13441.88,US,2021-03-19
+C00941,Business,Grocery Store,96760.49,US,2024-01-13
+C00942,Business,Restaurant,63123.69,US,2023-08-02
+C00943,Business,Grocery Store,187412.06,US,2019-01-20
+C00944,Business,Import/Export,199713.07,US,2021-10-18
+C00945,Business,Grocery Store,53592.59,US,2021-11-27
+C00946,Business,Restaurant,186740.85,US,2017-10-26
+C00947,Business,Auto Repair,196205.17,US,2019-01-14
+C00948,Business,Auto Repair,38705.13,US,2022-10-12

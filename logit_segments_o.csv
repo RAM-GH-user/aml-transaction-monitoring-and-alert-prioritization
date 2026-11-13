@@ -1,0 +1,4 @@
+customer_type,repeat_band,alerts,productive,conversion_pct
+Business,first or second large cash,151,26,17.2
+Business,repeat large cash (2+ in 90d),57,56,98.2
+Individual,first or second large cash,73,13,17.8
